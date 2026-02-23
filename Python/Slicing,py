@@ -1,0 +1,9 @@
+name = "Shray Singal"
+print(name)
+print(name[::-1])
+print(name[1::])
+print(name[:5])
+print(name[1:5:2])
+print(name[1:8:])
+print(name[1::2])
+print(name[:5:2])
